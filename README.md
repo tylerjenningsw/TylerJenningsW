@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭I'm currently working on C++, Python, TypeScript, and React.<br><br>🧑‍🤝‍🧑I'm looking to collaborate on anything that makes life easier for people.<br><br>🤝I'm looking for help with advocating for disabled people and their employment opportunities.
+🔭I'm currently working on C#, Javascript, DART, and C++.<br><br>🧑‍🤝‍🧑I'm looking to collaborate on anything that makes life easier for people.<br><br>🤝I'm looking for help with advocating for disabled people and their employment opportunities.
 
 
 ## 🌐 Socials:
