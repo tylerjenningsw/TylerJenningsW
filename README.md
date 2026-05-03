@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working with Scala, TypeScript, Docker, Terraform, AWS, and Postgres.<br><br>🧑‍🤝‍🧑I'm looking to collaborate on anything that makes life easier for people.<br><br>🤝I'm looking for help with advocating for disabled people and their employment opportunities.
+🔭I'm currently working with Python, TypeScript, Docker, Terraform, AWS, and Postgres.<br><br>🧑‍🤝‍🧑I'm looking to collaborate on anything that makes life easier for people.<br><br>🤝I'm looking for help with advocating for disabled people and their employment opportunities.
 
 
 ## 🌐 Socials:
